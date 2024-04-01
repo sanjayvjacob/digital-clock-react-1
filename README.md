@@ -35,7 +35,7 @@ Users should be able to:
 
 ### Live site URL :
 
-https://sanjayvjacob.github.io/React-clock/
+https://sanjayvjacob.github.io/digital-clock-react-1/
 
 ## My process
 
