@@ -20,7 +20,7 @@ This is a solution to the React Clock Project from Appbrewery.com
 Users should be able to:
 
 - Understand useState Hook in React
-- Show the latest time in the <h1> when the Get Time button is pressed.
+- Show the latest time when the Get Time button is pressed.
 - User can get code to be called every second using the setInterval method.
   e.g.
 
